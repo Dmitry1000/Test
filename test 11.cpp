@@ -35,6 +35,6 @@ int main()
 	//Добавлен комментарий через сайт
 	cout << pos;
 
-
+	//Расширим функциональность в новой ветке... Под редактором кода нажато Commit changes. Create a new branch for this commit and start a pull request
 }
 
