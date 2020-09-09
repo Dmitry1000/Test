@@ -1,1 +1,2 @@
 Текст написан в notepad
+vnoshu izmenenie lokalno
